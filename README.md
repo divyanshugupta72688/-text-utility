@@ -7,7 +7,7 @@ text in real-time.
 ---
 
 ## 🔗 Live Demo
-[Click Here to View Live](ADD YOUR LIVE LINK HERE)
+[Click Here to View Live] https://divyanshugupta72688.github.io/-text-utility/
 
 ---
 
@@ -79,20 +79,7 @@ Frontend runs at http://localhost:3000
 Step 4 - Open in Browser
 http://localhost:3000
 
----
-
-## 🌐 Deployment
-
-Frontend - Deploy on Netlify FREE
-1. Go to https://netlify.com
-2. Drag and drop the frontend/build folder
-3. Get instant live URL
-
-Backend - Deploy on Render FREE
-1. Go to https://render.com
-2. Connect your GitHub repo
-3. Set root directory as backend
-4. Start command: node server.js
+--
 
 ---
 
